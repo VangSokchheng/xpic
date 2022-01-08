@@ -95,7 +95,7 @@ body {
   }
 }
 /* 4 */
-@media (max-width: 320px) {
+@media (max-width: 340px) {
   .logo {
     height: 90px;
   }
@@ -173,7 +173,7 @@ body {
   }
 }
 /* 3 */
-@media (max-width: 320px) {
+@media (max-width: 340px) {
   .media {
     position: fixed;
     right: 10px;
